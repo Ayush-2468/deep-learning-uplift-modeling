@@ -40,12 +40,8 @@ $$
 
 ```
 
-### Charts & Results
-
-Save your final plot as `assets/uplift_results.png` to show the **uplift score distribution** and **cumulative gain curve** side by side:
-
-```
-![Uplift Score Distribution and Cumulative Gain Curve](assets/uplift_results.png)
+### Results
+Saving the Marketing Cost significantly by not giving unnecessary discounts and Targeting Relevent customers 
 
 ```
 
